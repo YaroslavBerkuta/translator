@@ -1,10 +1,8 @@
-import React from 'react';
+import React from "react";
 import WordList from "../../component/WordList/WordList";
 
 const Libery = () => {
-    return (
-        <WordList />
-    );
+  return <WordList />;
 };
 
 export default Libery;
