@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="758ba3bc-e1a6-4c8a-b63d-72c75e15d7d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/TestItem/TestItem.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/WordList/WordList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/WordList/WordList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/Home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/Libery/Libery.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/Libery/Libery.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/Test/Test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/Test/Test.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/testReduser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/testReduser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/wordReduser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/wordReduser.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +21,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +40,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660660618913</updated>
-      <workItem from="1660660621527" duration="1280000" />
+      <workItem from="1660660621527" duration="1471000" />
+      <workItem from="1660662449137" duration="724000" />
     </task>
     <servers />
   </component>
